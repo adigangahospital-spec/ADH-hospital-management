@@ -1,0 +1,6 @@
+{
+  "name": "AdiGanga Hospital Mobile",
+  "description": "Cross-platform mobile hospital management application for AdiGanga Hospital with live 10-bed ward tracker, OPD/IPD workflows, clinical notes, pathology reports, billing, birth certificates, triage, and React Native mobile architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
